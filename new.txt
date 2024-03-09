@@ -2,5 +2,11 @@ my name is srikanth
 
 added new in in new.txt
 
+added in 5th line
+
 
 git stash applied in 6th line
+
+ghjkkk
+
+
