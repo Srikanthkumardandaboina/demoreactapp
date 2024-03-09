@@ -1,3 +1,6 @@
 my name is srikanth
 
 added new in in new.txt
+
+
+git stash applied in 6th line
