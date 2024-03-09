@@ -1,4 +1,3 @@
 my name is srikanth
 
-
-i have added new line
+added new in in new.txt
